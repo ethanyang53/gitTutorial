@@ -12,7 +12,7 @@ public class Application extends Frame implements WindowListener {
 	
 	public Application() 
 	{
-
+//wenhan yang
 		super();
 		
 		Model modl = new Model();
