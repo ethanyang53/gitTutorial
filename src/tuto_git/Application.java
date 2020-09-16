@@ -12,6 +12,7 @@ public class Application extends Frame implements WindowListener {
 	
 	public Application() 
 	{
+		//asdfghjkjkkkjhgggfff
 		super();
 		
 		Model modl = new Model();
@@ -25,7 +26,6 @@ public class Application extends Frame implements WindowListener {
 		view.addActionListener(ctrl);
 		
 		this.add(view);
-		
 		this.pack();
 		this.setTitle("The clic game");
 		this.setVisible(true);	
