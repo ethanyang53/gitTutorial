@@ -14,6 +14,7 @@ public class Application extends Frame implements WindowListener {
 	{
 		//asdfghjkjkkkjhgggfff
 		//sdkjfhkdsfd
+		//aaa
 		super();
 		
 		Model modl = new Model();
